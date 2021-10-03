@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#todo-input {
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
+
+.clock {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: x-large;
+    padding-bottom: 10rem;
+}
+
+#username-form input {
+    border: 0;
+    font-size: x-large;
+    text-align: center;
+    margin: 4rem;
+}
+
+#todo-form input {
+    outline: 0;
+    font-size: large;
+    width: 60%;
+    margin-bottom: 4rem;
+}
