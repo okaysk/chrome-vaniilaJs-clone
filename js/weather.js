@@ -1,4 +1,5 @@
 const API_KEY = '2dc75d75a168eee563c76775524b56d6'
+// what
 
 function geolocationOk(position) {
     const lon = position.coords.longitude
